@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "id": "breed_status",
+  "version": "${version}",
+  "name": "Breed Status",
+  "description": "Client-side status markers for breedable animals.",
+  "authors": ["Breed Status contributors"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["dev.example.breedstatus.BreedStatusClient"]
+  },
+  "mixins": ["breed_status.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": "1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

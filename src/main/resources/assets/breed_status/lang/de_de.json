@@ -1,0 +1,5 @@
+{
+  "key.breed_status.toggle": "Zuchtstatus-Markierungen umschalten",
+  "message.breed_status.enabled": "Zuchtstatus: EIN",
+  "message.breed_status.disabled": "Zuchtstatus: AUS"
+}

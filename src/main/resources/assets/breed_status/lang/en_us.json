@@ -1,0 +1,5 @@
+{
+  "key.breed_status.toggle": "Toggle Breed Status Markers",
+  "message.breed_status.enabled": "Breed Status: ON",
+  "message.breed_status.disabled": "Breed Status: OFF"
+}
